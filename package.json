@@ -1,0 +1,25 @@
+{
+  "name": "@swashvirus/stream-toString",
+  "version": "1.0.0",
+  "description": "A nodejs esm module that for converting streams to strings",
+  "main": "main.js",
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "dummy-text-generator": "^1.0.3",
+    "chai": "^4.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swashvirus/stream-tostring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swashvirus/stream-tostring/issues"
+  },
+  "homepage": "https://github.com/swashvirus/stream-tostring#readme"
+}

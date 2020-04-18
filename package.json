@@ -1,5 +1,5 @@
 {
-  "name": "@swashvirus/stream-toString",
+  "name": "@swashvirus/stream-tostring",
   "version": "1.0.0",
   "description": "A nodejs esm module that for converting streams to strings",
   "main": "main.js",
